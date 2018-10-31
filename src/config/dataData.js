@@ -1,0 +1,72 @@
+/**
+ * Created by web on 2018/6/26.
+ */
+let dataObj =[
+  {
+     songName:['泡','沫'],
+     imgBgSrc:'./static/img/ms_bg_1.jpg',
+     rotateSrc:'./static/img/rotate_1.png',
+     musicSrc:'https://adcdn.like000.com/adcdn/star_video/music/paomo.mp3',
+     messageSrc:'./static/img/message_1.png',
+     otherWords:['珠','龙','泡','气','发','卷','沫','场','风','水']
+  },
+  {
+    songName:['我','的','秘','密'],
+    imgBgSrc:'./static/img/ms_bg_2.jpg',
+    rotateSrc:'./static/img/rotate_2.png',
+    musicSrc:'https://adcdn.like000.com/adcdn/star_video/music/mysecret.mp3',
+    messageSrc:'./static/img/message_2.png',
+    otherWords:['爱','的','泡','他','秘','密','我','你','泡','沫']
+  },
+  {
+    songName:['爱','你'],
+    imgBgSrc:'./static/img/ms_bg_3.jpg',
+    rotateSrc:'./static/img/rotate_3.png',
+    musicSrc:'https://adcdn.like000.com/adcdn/star_video/music/loveyou.mp3',
+    messageSrc:'./static/img/message_3.png',
+    otherWords:['爱','寂','她','分','孤','景','你','我','风','离']
+  },
+  {
+    songName:['光','年','之','外'],
+    imgBgSrc:'./static/img/ms_bg_4.jpg',
+    rotateSrc:'./static/img/rotate_4.png',
+    musicSrc:'https://adcdn.like000.com/adcdn/star_video/music/guangnianzhiwai.mp3',
+    messageSrc:'./static/img/message_4.png',
+    otherWords:['年','华','星','冷','之','速','光','外','海','漠']
+  },
+  {
+    songName:['来','自','天','堂','的','魔','鬼'],
+    imgBgSrc:'./static/img/ms_bg_5.jpg',
+    rotateSrc:'./static/img/rotate_5.png',
+    musicSrc:'https://adcdn.like000.com/adcdn/star_video/music/laizitiantangdemogui.mp3',
+    messageSrc:'./static/img/message_5.png',
+    otherWords:['天','来','女','地','鬼','自','的','魔','堂','狱']
+  },
+  {
+    songName:['多','远','都','要','在','一','起'],
+    imgBgSrc:'./static/img/ms_bg_6.jpg',
+    rotateSrc:'./static/img/rotate_6.png',
+    musicSrc:'https://adcdn.like000.com/adcdn/star_video/music/duoyuandouyaozaiyiqi.mp3',
+    messageSrc:'./static/img/message_6.png',
+    otherWords:['起','开','要','不','分','在','多','都','远','一']
+  },
+  {
+    songName:['睡','公','主'],
+    imgBgSrc:'./static/img/ms_bg_7.jpg',
+    rotateSrc:'./static/img/rotate_7.png',
+    musicSrc:'https://adcdn.like000.com/adcdn/star_video/music/shuigongzhu.mp3',
+    messageSrc:'./static/img/message_7.png',
+    otherWords:['心','主','再','相','怕','公','寞','睡','见','寂']
+  },
+  {
+    songName:['新','的','心','跳'],
+    imgBgSrc:'./static/img/ms_bg_8.jpg',
+    rotateSrc:'./static/img/rotate_8.png',
+    musicSrc:'https://adcdn.like000.com/adcdn/star_video/music/xindexintiao.mp3',
+    messageSrc:'./static/img/message_8.png',
+    otherWords:['的','我','心','失','得','动','新','而','跳','复']
+  }
+];
+
+
+export default dataObj
